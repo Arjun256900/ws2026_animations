@@ -1,4 +1,4 @@
-# chatgpt_level_1
+# Animations
 
 A new Flutter project.
 
